@@ -2,14 +2,14 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-01T16:53:59.431Z
+date: 2024-12-01T17:38:01.411Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
 ---
 
 # 欢迎来到 NyaProxy 相关指南
-
+![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/badge/Nya-Proxy-pink?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20milk-blue?style=for-the-badge)
 **你可以在该站查到使用本产品的绝大部分解决方法**
 
 ## Mainly Announcement
