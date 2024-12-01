@@ -1,8 +1,8 @@
 ---
-title: 如何正确的像管理员报告问题
+title: 如何正确的向管理员报告问题
 description: 
 published: true
-date: 2024-12-01T17:30:16.899Z
+date: 2024-12-01T17:40:04.667Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T17:30:16.899Z
