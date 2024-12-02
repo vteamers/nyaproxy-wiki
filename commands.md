@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T07:37:53.774Z
+date: 2024-12-02T07:52:41.688Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -10,6 +10,7 @@ dateCreated: 2024-12-02T00:08:33.464Z
 
 # NyaProxy の 基础使用指令
 ![](https://img.shields.io/badge/Fisunia_Faint-pink?style=for-the-badge&label=Writer)
+![](https://img.shields.io/badge/juice-orange?style=for-the-badge&label=Writer)
 
 <br>
 <div class="highlight-box">
