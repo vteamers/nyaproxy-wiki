@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T08:16:08.368Z
+date: 2024-12-02T08:27:59.762Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -76,8 +76,11 @@ Nya-DXGisBu11Shit
 `/redeem DXGisBu11Shit`
 {.is-danger}
 
-## 
+### [Services]查看你剩余的时长
+`/services` 
+此指令用于查看本产品剩余可使用的时间
 
+### [Showlogs]查看你
 
 
 
