@@ -2,7 +2,7 @@
 title: NyaProxy管理员名单
 description: 
 published: true
-date: 2024-12-02T17:55:40.440Z
+date: 2024-12-02T17:59:42.275Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-02T17:22:39.469Z
@@ -19,3 +19,6 @@ dateCreated: 2024-12-02T17:22:39.469Z
 - 沈蔚秋（不定期在线）：2130462169
 - Milk (90%概率在线) :3801477277
 - DreamLight (吉祥物) :2550639290
+# 注意事项
+> 请不要随意骚扰管理，例如：弹窗抖动，刷屏，打电话等。否则会受到**60-1200**分钟不等的处罚并列入黑名单。
+{.is-danger}
