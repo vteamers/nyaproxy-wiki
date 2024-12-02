@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-02T01:24:47.626Z
+date: 2024-12-02T01:28:07.401Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
@@ -20,8 +20,6 @@ dateCreated: 2024-12-01T16:13:10.433Z
 > [点击我前往仓库链接](https://github.com/Michaelwucoc/nyaproxy-wiki)
 {.is-info}
 
->1
-{.is_maintain}
 
 
 **你可以在该站查到使用本产品的绝大部分解决方法**
