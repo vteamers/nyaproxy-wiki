@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T09:23:18.139Z
+date: 2024-12-02T14:58:39.766Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -95,6 +95,7 @@ Nya-DXGisBu11Shit
 初始化服务计费
 该指令的全通用格式为:
 `/start <servicesMode> [-t <targetServer>]`
+ 
  
 
 
