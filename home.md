@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-02T01:28:07.401Z
+date: 2024-12-02T01:28:34.169Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
@@ -20,7 +20,14 @@ dateCreated: 2024-12-01T16:13:10.433Z
 > [点击我前往仓库链接](https://github.com/Michaelwucoc/nyaproxy-wiki)
 {.is-info}
 
-
+<div class="info-box">
+    <i class="fa-solid fa-wrench icon"></i> <!-- 使用扳手图标 -->
+    <div class="content">
+        <strong>我们需要你的帮助</strong><br>
+        本Wiki和GitHub联通，您可以在GitHub上通过提交Pull Request来与我们一起维护项目！<br>
+        <a href="#">点击获取前往仓库链接</a>
+    </div>
+</div>
 
 **你可以在该站查到使用本产品的绝大部分解决方法**
 
