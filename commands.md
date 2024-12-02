@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T03:03:31.908Z
+date: 2024-12-02T04:31:19.740Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -33,6 +33,24 @@ dateCreated: 2024-12-02T00:08:33.464Z
 ## 指令
 进入本产品 QQ群 后
 直接在群里发指令  `/bind` 或 `!bind`
+
+你将会收到来自 机器人 的回复
+> 当前可用的指令有：
+    /landy  我是抖 M
+    /migrate  从旧版 NyaProxy 中转移剩余时长
+    /redeem  兑换服务
+    /services  查看已有的服务及其剩余时长/到期时间
+    /showlogs  查看用户审计日志
+    /start  初始化服务
+    /stop  停止服务
+    /terminate  强制终止用户的服务
+    /transfer  将主服务的剩余时长转移到 EU 按时计费服务
+输入“/help 指令名”查看特定指令的语法和使用示例。
+
+## 使用此新架构系统前的元老用户
+/migrate  
+此指令输入后将会从 旧版-NyaProxy 数据库中迁移剩余时长 到 新版-NyaProxy-NG 数据库 中
+
 
 
 
