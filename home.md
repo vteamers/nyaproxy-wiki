@@ -2,14 +2,20 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-01T17:38:01.411Z
+date: 2024-12-02T01:09:42.018Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
 ---
 
 # 欢迎来到 NyaProxy 相关指南
+
 ![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/badge/Nya-Proxy-pink?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20milk-blue?style=for-the-badge)
+> ### 我们需要你
+> 本Wiki和GitHub联通,您可以在GitHub上通过提交Pull Request来与我们一起创作!
+> [点击我前往仓库链接](https://github.com/Michaelwucoc/nyaproxy-wiki)
+{.is-info}
+
 **你可以在该站查到使用本产品的绝大部分解决方法**
 
 ## Mainly Announcement
@@ -31,4 +37,4 @@ dateCreated: 2024-12-01T16:13:10.433Z
 5. 管理员拥有通过扣除时长惩罚用户的权利。用户可以通过良好的态度解释说明，撤销惩罚。
 
 6. 管理员拥有最终解释权
-祝您使用愉快！
+**祝您使用愉快！**
