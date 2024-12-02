@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T08:27:59.762Z
+date: 2024-12-02T08:48:54.096Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -80,7 +80,18 @@ Nya-DXGisBu11Shit
 `/services` 
 此指令用于查看本产品剩余可使用的时间
 
-### [Showlogs]查看你
+### [Showlogs]查看你的时长走向
+`/showlogs`
+此指令用于查看本产品你的已使用时长的走向，包括 自行使用走向/管理员时长调整 
+
+---
+> 下面将是重点，请初次使用服务的用户重重点留意
+{.is-warning}
+
+# 使用 NyaProxy 的指令
+## 开始计费
+`/start`
+开始服务计费
 
 
 
