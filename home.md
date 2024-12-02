@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-02T07:40:34.545Z
+date: 2024-12-02T07:46:50.549Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
@@ -10,6 +10,8 @@ dateCreated: 2024-12-01T16:13:10.433Z
 
 # 欢迎来到 NyaProxy 相关指南
 
+> 查看我们的浏览量? [点击我跳转到统计页面](https://stat.hongrun.ink/share/nedZYL1cu8QcpbeY/wiki.milkawa.xyz)
+{.is-success}
 
 
 
