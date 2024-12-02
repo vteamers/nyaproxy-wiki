@@ -2,12 +2,13 @@
 title: 如何正确的向管理员报告问题
 description: 
 published: true
-date: 2024-12-02T07:09:38.353Z
+date: 2024-12-02T07:48:55.796Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T17:30:16.899Z
 ---
 
+![](https://img.shields.io/badge/Milk-blue?style=for-the-badge&label=Writer)
 # 须知
 > 管理员经常忙碌,请不要随意添加他们为好友! 请不要连接失败时,直接骚扰管理!
 > 您可能因此受到扣除 `60-1200`分钟的处罚
