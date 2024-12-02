@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-02T01:36:47.064Z
+date: 2024-12-02T06:56:00.377Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
@@ -13,7 +13,7 @@ dateCreated: 2024-12-01T16:13:10.433Z
 
 
 
-![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/badge/Nya-Proxy-pink?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20milk-blue?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/badge/Nya-Proxy-pink?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20milk-blue?style=for-the-badge) ![](https://img.shields.io/github/directory-file-count/Michaelwucoc/nyaproxy-wiki?style=for-the-badge&labelColor=%237079f8&color=grey)
 
 <br>
 <div class="info-box">
