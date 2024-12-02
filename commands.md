@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T02:48:04.563Z
+date: 2024-12-02T02:49:09.380Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -11,8 +11,7 @@ dateCreated: 2024-12-02T00:08:33.464Z
 # NyaProxy の 基础使用指令
 <br>
 <div class="highlight-box">
-    <i class="fa-solid fa-star icon"></i> <!-- 使用星星图标 -->
-    <div class="content">
+<img src="https://photo.vteamer.cc/i/2024/12/02/hahf0h.png" alt="Minecraft 经验瓶" class="icon"> <!-- Minecraft 经验瓶图标 -->    <div class="content">
         <strong>这是精品!!!</strong><br>
         您目前在浏览的页面是一个精品页面！精品页面意味着该页面的内容十分客观，充实且详细，是其他编辑者学习的榜样。
 <br>
