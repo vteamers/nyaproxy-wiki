@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T04:52:35.328Z
+date: 2024-12-02T04:53:51.695Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -68,7 +68,7 @@ Nya-DXGisBu11Shit
 > `/redeem Nya-DXGisBu11Shit`
 {.is-success}
 
-你拿到的卡密请不要捏头掐尾的去掉东西，不然会兑换失败
+**你拿到的卡密请不要捏头掐尾的去掉东西，不然会兑换失败**
 > `/redeem 20hours-yuanshenqidonq`
 `/redeem DXGisBu11Shit`
 {.is-danger}
