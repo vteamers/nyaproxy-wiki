@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T07:55:43.638Z
+date: 2024-12-02T07:59:14.655Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -51,11 +51,11 @@ dateCreated: 2024-12-02T00:08:33.464Z
     `/transfer`  将主服务的剩余时长转移到 EU 按时计费服务
 输入“`/help 指令名`”查看特定指令的语法和使用示例。
 
-## 使用此新架构系统前的元老用户
+### [Migrate]使用此新架构系统前的元老用户
 `/migrate`  
 此指令输入后将会从 旧版-NyaProxy 数据库 中迁移剩余时长 到 新版-NyaProxy-NG 数据库 中
 
-## [激活]第一次使用本产品的用户
+### [Redeem]激活-第一次使用本产品的用户
 进入 主群QQ群 后，拿好你买好的卡密
 在群中输入该指令 激活/兑换
 `/redeem`
