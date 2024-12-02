@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T08:48:54.096Z
+date: 2024-12-02T09:02:04.626Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -86,12 +86,16 @@ Nya-DXGisBu11Shit
 
 ---
 > 下面将是重点，请初次使用服务的用户重重点留意
+**只是注意关注，并不会操作困难，请用户放心**
 {.is-warning}
 
-# 使用 NyaProxy 的指令
+# 使用 NyaProxy 服务的指令
 ## 开始计费
 `/start`
-开始服务计费
+初始化服务计费
+该指令的全通用格式为:
+`/start <servicesMode> [-t <targetServer>]`
+ 
 
 
 
