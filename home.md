@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-02T08:03:55.873Z
+date: 2024-12-02T08:04:53.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
@@ -10,9 +10,7 @@ dateCreated: 2024-12-01T16:13:10.433Z
 
 # 欢迎来到 NyaProxy 相关指南
 
-![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/directory-file-count/Michaelwucoc/nyaproxy-wiki?style=for-the-badge&labelColor=%237079f8&color=grey) ![](https://img.shields.io/badge/Fisunia_Faint-pink?style=for-the-badge&label=Writer)
-![](https://img.shields.io/badge/juice-orange?style=for-the-badge&label=Writer)
-![](https://img.shields.io/badge/Server%20By%20-%20milk-blue?style=for-the-badge) 
+![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/directory-file-count/Michaelwucoc/nyaproxy-wiki?style=for-the-badge&labelColor=%237079f8&color=grey) ![](https://img.shields.io/badge/Fisunia_Faint-pink?style=for-the-badge&label=Writer)![](https://img.shields.io/badge/juice-orange?style=for-the-badge&label=Writer)![](https://img.shields.io/badge/Server%20By%20-%20milk-blue?style=for-the-badge) 
 
 > 查看我们的浏览量? [点击我跳转到统计页面](https://stat.hongrun.ink/share/nedZYL1cu8QcpbeY/wiki.milkawa.xyz)
 {.is-info}
