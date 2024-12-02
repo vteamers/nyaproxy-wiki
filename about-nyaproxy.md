@@ -25,7 +25,7 @@ dateCreated: 2024-12-01T17:17:03.243Z
 
 # 如今发展 · NyaProxy
 
-如今，NyaProxy 在不断的更新和升级 迎来了 🛳船新架构🛳 NyaProxy NextGen
+如今，NyaProxy 在不断的更新和升级 迎来了 🛳船新架构🛳**NyaProxy NextGen**
 
 相较于原先的系统 新架构的指令集成 更丰富 更明确 更智能 
 
