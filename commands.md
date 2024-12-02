@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T04:31:19.740Z
+date: 2024-12-02T04:45:53.445Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -49,7 +49,28 @@ dateCreated: 2024-12-02T00:08:33.464Z
 
 ## 使用此新架构系统前的元老用户
 /migrate  
-此指令输入后将会从 旧版-NyaProxy 数据库中迁移剩余时长 到 新版-NyaProxy-NG 数据库 中
+此指令输入后将会从 旧版-NyaProxy 数据库 中迁移剩余时长 到 新版-NyaProxy-NG 数据库 中
+
+## 第一次使用本产品的用户
+进入 主群QQ群 后，拿好你买好的卡密
+在群中输入该指令 激活/兑换
+/redeem
+此指令输入后，将会兑换你的卡密并绑定你的 QQ账号
+一般卡密样式为:
+examplePrefix-（balanceTime）-xxxxxxxxxx
+比如:
+Nya-20hours-yuanshenqidonq
+Nya-DXGisBu11Shit
+
+兑换卡密的格式:
+> /redeem Nya-DXGisBu11Shit
+{.is-success}
+
+你拿到的卡密请不要捏头掐尾的去掉东西，不然会兑换失败
+> /redeem 20hours-yuanshenqidonq
+/redeem DXGisBu11Shit
+{.is-worng}
+
 
 
 
