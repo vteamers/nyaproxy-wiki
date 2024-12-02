@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-02T01:28:34.169Z
+date: 2024-12-02T01:29:14.051Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
@@ -14,18 +14,13 @@ dateCreated: 2024-12-01T16:13:10.433Z
 
 
 ![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/badge/Nya-Proxy-pink?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20milk-blue?style=for-the-badge)
-> 
-> **我们需要你**
-> 本Wiki和GitHub联通,您可以在GitHub上通过提交Pull Request来与我们一起创作!
-> [点击我前往仓库链接](https://github.com/Michaelwucoc/nyaproxy-wiki)
-{.is-info}
 
 <div class="info-box">
     <i class="fa-solid fa-wrench icon"></i> <!-- 使用扳手图标 -->
     <div class="content">
         <strong>我们需要你的帮助</strong><br>
         本Wiki和GitHub联通，您可以在GitHub上通过提交Pull Request来与我们一起维护项目！<br>
-        <a href="#">点击获取前往仓库链接</a>
+        <a href="https://github.com/Michaelwucoc/nyaproxy-wiki">点击获取前往仓库链接</a>
     </div>
 </div>
 
