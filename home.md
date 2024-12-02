@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-02T01:18:09.021Z
+date: 2024-12-02T01:19:47.470Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
@@ -11,7 +11,8 @@ dateCreated: 2024-12-01T16:13:10.433Z
 # 欢迎来到 NyaProxy 相关指南
 
 ![](https://img.shields.io/github/commit-activity/t/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/github/last-commit/Michaelwucoc/nyaproxy-wiki?style=for-the-badge) ![](https://img.shields.io/badge/Nya-Proxy-pink?style=for-the-badge) ![](https://img.shields.io/badge/Server%20By%20-%20milk-blue?style=for-the-badge)
-> ### 我们需要你
+> 
+> **我们需要你**
 > 本Wiki和GitHub联通,您可以在GitHub上通过提交Pull Request来与我们一起创作!
 > [点击我前往仓库链接](https://github.com/Michaelwucoc/nyaproxy-wiki)
 {.is-info}
