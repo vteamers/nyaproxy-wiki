@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-02T04:49:31.934Z
+date: 2024-12-02T04:52:35.328Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -37,24 +37,24 @@ dateCreated: 2024-12-02T00:08:33.464Z
 你将会收到来自 机器人 的回复
 > 当前可用的指令有：
     /landy  我是抖 M
-    /migrate  从旧版 NyaProxy 中转移剩余时长
-    /redeem  兑换服务
-    /services  查看已有的服务及其剩余时长/到期时间
-    /showlogs  查看用户审计日志
-    /start  初始化服务
-    /stop  停止服务
+    `/migrate`  从旧版 NyaProxy 中转移剩余时长
+    `/redeem`  兑换服务
+    `/services`  查看已有的服务及其剩余时长/到期时间
+    `/showlogs`  查看用户审计日志
+    `/start`  初始化服务
+    `/stop`  停止服务
     /terminate  强制终止用户的服务
-    /transfer  将主服务的剩余时长转移到 EU 按时计费服务
-输入“/help 指令名”查看特定指令的语法和使用示例。
+    `/transfer`  将主服务的剩余时长转移到 EU 按时计费服务
+输入“`/help 指令名`”查看特定指令的语法和使用示例。
 
 ## 使用此新架构系统前的元老用户
-/migrate  
+`/migrate`  
 此指令输入后将会从 旧版-NyaProxy 数据库 中迁移剩余时长 到 新版-NyaProxy-NG 数据库 中
 
 ## [激活]第一次使用本产品的用户
 进入 主群QQ群 后，拿好你买好的卡密
 在群中输入该指令 激活/兑换
-/redeem
+`/redeem`
 此指令输入后，将会兑换你的卡密并绑定你的 QQ账号
 一般卡密样式为:
 > examplePrefix-(balanceTime)-xxxxxxxxxx
@@ -65,12 +65,12 @@ Nya-DXGisBu11Shit
 {.is-info}
 
 兑换卡密的格式:
-> /redeem Nya-DXGisBu11Shit
+> `/redeem Nya-DXGisBu11Shit`
 {.is-success}
 
 你拿到的卡密请不要捏头掐尾的去掉东西，不然会兑换失败
-> /redeem 20hours-yuanshenqidonq
-/redeem DXGisBu11Shit
+> `/redeem 20hours-yuanshenqidonq`
+`/redeem DXGisBu11Shit`
 {.is-danger}
 
 
