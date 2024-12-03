@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-03T08:36:47.893Z
+date: 2024-12-03T09:00:52.194Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -95,13 +95,31 @@ Milk-20hours-milkserver
 初始化服务计费
 该指令的全通用格式为:
 `/start <servicesMode> [-t <targetServer>]`
-解析：
-<servicesMode>：使用服务模式
-  目前用户常用的服务模式有以下几种:
-  usagebased.cn.hypixel 计费模式 目标服务器[美国:Hypixel]
-  usagebased.de.any 计费模式 目标服务器[欧洲:未指定.需自行定向]
-  subscription.de.any 订阅模式 目标服务器[欧洲:未指定.需自行定向]
- 
+
+> `<servicesMode>`：使用服务模式.目前用户常用的服务模式有以下几种:
+  usagebased.cn.hypixel 计费模式 目标服务器 [美国:Hypixel]
+  usagebased.de.any 计费模式 目标服务器 ***[欧洲:未指定.需自行定向]***
+  subscription.de.any 订阅模式 目标服务器 ***[欧洲:未指定.需自行定向]***
+ `[-t <targetServer>]`: 指定目标服务器.目前该代码是专门为 [ subscription.de.any/usagebased.de.any] ***这种未指定的目标服务所使用，其他情况下并不需要该附加命令式***
+
+**通常情况下，如果直接使用命令**
+`/start` 此时目标服务器默认为 *usagebased.cn.hypixel*
+~~当然，如果你想炫耀你神速の打字速度的话，你也可以~~
+`/start usagebased.cn.hypixel`
+
+如果你需要使用EU-Proxy *[指 subscription.de.any/usagebased.de.any 服务]*
+那你需要添加指定目标服务器进行加速
+以游玩 BlocksMC.com 服务器为举例
+使用指令
+> `/start usagebased.de.any -t Blocksmc.com`
+{.is-success}
+
+当你输入之后，耐心等待主控初始化服务，当机器人回复你的时候，就说明启动成功啦～
+
+
+
+
+
 
 
 
