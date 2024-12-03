@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-03T02:15:42.734Z
+date: 2024-12-03T08:21:08.331Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -95,7 +95,12 @@ Milk-20hours-milkserver
 初始化服务计费
 该指令的全通用格式为:
 `/start <servicesMode> [-t <targetServer>]`
- 
+解析：
+<servicesMode>：使用服务模式
+  目前用户常用的服务模式有以下几种:
+  usagebased.cn.hypixel 计费模式 目标服务器[美国:Hypixel]
+  usagebased.de.any 计费模式 目标服务器[欧洲:未指定.需自行定向]
+  subscription.de.any 订阅模式 目标服务器[欧洲:未指定.需自行定向]
  
 
 
