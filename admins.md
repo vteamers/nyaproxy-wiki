@@ -2,7 +2,7 @@
 title: NyaProxy管理员名单
 description: 
 published: true
-date: 2024-12-03T07:53:01.641Z
+date: 2024-12-03T07:53:57.047Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-02T17:22:39.469Z
@@ -13,7 +13,7 @@ dateCreated: 2024-12-02T17:22:39.469Z
 
 # 管理员名单
 - 管理组公用账号 / Nya [NyaProxy拥有者]：`3428936776`
-- 终末TheEnd [NyaProxy早期开发者] （~~已死亡~~）
+- 终末TheEnd [NyaProxy早期开发者] （~~已死亡~~）:`聊天方式已匿名`
 - Farisa Night [NyaProxy高级管理者]（经常在线）：`1984028293`
 - 白羽BaiFeather [NyaProxy客卿 钠加速/钠支付拥有者]:`聊天方式已匿名`
 - ShaYe [NyaProxy客卿 知名GTAV/荒野大镖客等游戏账号卡商] （~~男娘~~）:` 聊天方式已匿名`
