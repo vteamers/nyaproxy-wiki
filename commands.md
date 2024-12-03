@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-03T13:51:39.395Z
+date: 2024-12-03T13:56:37.462Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -128,7 +128,7 @@ Milk-20hours-milkserver
 将 *usagebased.cn.hypixel* 的时长
 转移至 *usagebased.de.any* 服务
 该指令的格式为:
-/transfer 
+`/transfer <convertiveAmount>`
 
 
 
