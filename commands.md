@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-03T13:56:37.462Z
+date: 2024-12-03T14:07:45.532Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -129,9 +129,20 @@ Milk-20hours-milkserver
 转移至 *usagebased.de.any* 服务
 该指令的格式为:
 `/transfer <convertiveAmount>`
+> `<convertiveAmount>` :将该数量HYP时长转换成EU时长
+{.is-info}
 
+使用举例:
+> `/transfer 600`
+**BOT MSG:**
+@UnknownUser 成功将 600 分钟剩余时长转移到 EU 服务，增加 300 分钟。
+{.is-success}
 
+> 注意：该时长转换是 ***有比例的*** 其转换的比例为 HYP:EU ＝ 2:1
+**请注意时长转换量!!**
+{.is-warning}
 
+若你需要单独使用EU服务，你可以前往这里购买独售卡密
 
 
 
