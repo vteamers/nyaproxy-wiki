@@ -2,7 +2,7 @@
 title: NyaProxy管理员名单
 description: 
 published: true
-date: 2024-12-03T12:07:44.704Z
+date: 2024-12-03T12:51:48.650Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-02T17:22:39.469Z
@@ -21,6 +21,7 @@ dateCreated: 2024-12-02T17:22:39.469Z
 - Ikaleio 香草妈 [NyaProxy开发者]（不定期在线）：`3042822626`
 - 沈蔚秋 [NyaProxy高级管理者]（~~已死亡~~）：`2130462169`
 - Dream light [~~東雪蓮~~] (吉祥物) :`2550639290`
+- Juice [~~~果汁🍹~~] (吉祥物) : `3042444341`
 - Milk [NyaProxy新管理者] (90%概率在线) :`3801477277`
 # 注意事项
 > 请不要随意骚扰管理，例如：弹窗抖动，刷屏，打电话等。否则会受到**60-1200**分钟不等的处罚并列入黑名单。
