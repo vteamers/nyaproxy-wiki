@@ -2,7 +2,7 @@
 title: NyaProxy管理员名单
 description: 
 published: true
-date: 2024-12-03T07:50:08.314Z
+date: 2024-12-03T07:53:01.641Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-02T17:22:39.469Z
@@ -14,7 +14,7 @@ dateCreated: 2024-12-02T17:22:39.469Z
 # 管理员名单
 - 管理组公用账号 / Nya [NyaProxy拥有者]：`3428936776`
 - 终末TheEnd [NyaProxy早期开发者] （~~已死亡~~）
-- FarisaNight [NyaProxy高级管理者]（经常在线）：`1984028293`
+- Farisa Night [NyaProxy高级管理者]（经常在线）：`1984028293`
 - 白羽BaiFeather [NyaProxy客卿 钠加速/钠支付拥有者]:`聊天方式已匿名`
 - ShaYe [NyaProxy客卿 知名GTAV/荒野大镖客等游戏账号卡商] （~~男娘~~）:` 聊天方式已匿名`
 - Andy（不定期在线）：`3628919882`
@@ -22,7 +22,7 @@ dateCreated: 2024-12-02T17:22:39.469Z
 - 沈蔚秋 [NyaProxy高级管理者]（~~已死亡~~）：`2130462169`
 
 - Milk (90%概率在线) :`3801477277`
-- DreamLight (吉祥物) :`2550639290`
+- Dream light [~~東雪蓮~~] (吉祥物) :`2550639290`
 # 注意事项
 > 请不要随意骚扰管理，例如：弹窗抖动，刷屏，打电话等。否则会受到**60-1200**分钟不等的处罚并列入黑名单。
 {.is-danger}
