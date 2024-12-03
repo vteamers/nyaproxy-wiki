@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-03T02:13:26.296Z
+date: 2024-12-03T02:15:42.734Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -64,6 +64,7 @@ dateCreated: 2024-12-02T00:08:33.464Z
 比如:
 > Nya-20hours-yuanshenqidonq
 Nya-DXGisBu11Shit
+Milk-20hours-milkserver
 {.is-info}
 
 兑换卡密的格式:
