@@ -2,7 +2,7 @@
 title: NyaProxy管理员名单
 description: 
 published: true
-date: 2024-12-03T13:55:15.896Z
+date: 2024-12-03T13:55:40.183Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-02T17:22:39.469Z
