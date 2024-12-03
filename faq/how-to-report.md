@@ -1,8 +1,8 @@
 ---
-title: [R] 如何正确的向管理员报告问题
+title: [Report] 如何正确的向管理员报告问题
 description: 如何正确的向管理员报告问题
 published: true
-date: 2024-12-02T14:54:53.544Z
+date: 2024-12-03T06:04:58.607Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T17:30:16.899Z
