@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-03T11:58:28.396Z
+date: 2024-12-03T13:51:39.395Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -118,6 +118,17 @@ Milk-20hours-milkserver
 当你输入之后，耐心等待主控初始化服务，当机器人回复你的时候，就说明启动成功啦～
 > @xxxxx 服务 < servicesMode > 已初始化。查看你的 QQ 邮箱以获取连接地址。
 
+## 停止计费
+`/stop`
+暂停服务并结算计费
+~~这个指令没啥好说的~~
+
+## 转移服务时长 [HYP ---> EU]
+`/transfer`
+将 *usagebased.cn.hypixel* 的时长
+转移至 *usagebased.de.any* 服务
+该指令的格式为:
+/transfer 
 
 
 
