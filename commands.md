@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-03T02:12:20.250Z
+date: 2024-12-03T02:12:54.876Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -35,7 +35,7 @@ dateCreated: 2024-12-02T00:08:33.464Z
 
 ## 指令
 进入本产品 QQ群 后
-直接在群里发指令  `/bind` 或 `!bind`
+直接在群里发指令  `/help` 或 `!help`
 
 你将会收到来自 机器人 的回复
 > 当前可用的指令有：
