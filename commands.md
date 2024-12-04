@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-03T14:07:45.532Z
+date: 2024-12-04T02:43:57.781Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -142,7 +142,9 @@ Milk-20hours-milkserver
 **请注意时长转换量!!**
 {.is-warning}
 
-若你需要单独使用EU服务，你可以前往这里购买独售卡密
+若你需要单独使用EU服务 ， 你可以前往这里**↓**购买独售卡密
+> 想直达独售卡密商品窗口? **[点击我跳转到购买页面](http://shop.nyaproxy.xyz?cid=1&mid=32)**
+{.is-info}
 
 
 
