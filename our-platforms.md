@@ -2,8 +2,8 @@
 title: NyaProxy 支持的平台
 description: 
 published: true
-date: 2024-12-04T10:04:24.978Z
-tags: 
+date: 2024-12-04T10:05:28.793Z
+tags: lock
 editor: markdown
 dateCreated: 2024-12-04T09:47:57.593Z
 ---
