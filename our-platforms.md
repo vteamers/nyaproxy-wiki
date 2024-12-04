@@ -2,7 +2,7 @@
 title: NyaProxy 支持的平台
 description: 
 published: true
-date: 2024-12-04T10:02:47.154Z
+date: 2024-12-04T10:04:24.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T09:47:57.593Z
@@ -14,7 +14,7 @@ dateCreated: 2024-12-04T09:47:57.593Z
 {.is-warning}
 
 > 不会将 [ QQ ] 主账号的信息与其他平台同步？
-点击这里进行详细引导
+点击这里进行详细引导 [点击此处跳转](https://wiki.milkawa.xyz/zh/faq/how-to-bind)
 {.is-info}
 ## 1. QQ
 - 706392676
