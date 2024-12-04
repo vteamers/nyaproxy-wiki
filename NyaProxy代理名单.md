@@ -2,7 +2,7 @@
 title: NyaProxy 代理名单
 description: 
 published: true
-date: 2024-12-04T08:47:28.933Z
+date: 2024-12-04T08:54:02.551Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-04T08:47:28.933Z
@@ -19,7 +19,7 @@ Ming - https://shop.fazot.lol/ 卡密开头为：Ming
 一猫 - https://bakamarisa.shop/ 卡密开头为：Marisa
 小魔Lvrui666 - https://shop.qwq3.com/ 卡密开头为：Lvrui666
 AutoSave - https://autosave.top/ 卡密开头为：AutoSave
-Milk - https://store.vteamer.cc/ 卡密开头为：Milk
+Milk - https://shop.milkawa.xyz/ 卡密开头为：Milk
 
 只有在这里列出来的卡网才是可信卡网！
 
