@@ -2,11 +2,13 @@
 title: NyaProxy 代理名单
 description: 
 published: true
-date: 2024-12-04T08:54:42.774Z
+date: 2024-12-04T08:57:11.858Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-04T08:47:28.933Z
 ---
+
+![](https://img.shields.io/badge/locked-red?style=for-the-badge)
 
 # NyaProxy 代理名单
 Nya - https://shop.nyaproxy.xyz/ 卡密开头为：Nya
