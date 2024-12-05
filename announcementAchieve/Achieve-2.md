@@ -2,13 +2,13 @@
 title: Achieve-2
 description: 
 published: true
-date: 2024-12-05T01:12:32.844Z
+date: 2024-12-05T01:27:02.162Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T01:12:32.844Z
 ---
 
-# Achieve-2
+# 欧服EUProxy
 ![](https://img.shields.io/badge/nya-white?style=for-the-badge&label=Editor) ![](https://img.shields.io/badge/Fisunia_Faint-pink?style=for-the-badge&label=achieved-by)
 ## 欧服已上线
 被Ban不用更换IP 更换ID直接进
