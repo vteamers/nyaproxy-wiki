@@ -2,7 +2,7 @@
 title: NyaProxy 支持的平台
 description: 
 published: true
-date: 2024-12-04T10:05:28.793Z
+date: 2024-12-05T00:37:17.502Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-04T09:47:57.593Z
@@ -19,7 +19,7 @@ dateCreated: 2024-12-04T09:47:57.593Z
 ## 1. QQ
 - 706392676
 
-## 2. Discord
+## 2. Discord <i class="fa-brands fa-discord"></i>
 - https://discord.gg/vQJXAFrSst
 
 ## 3. Telegram
