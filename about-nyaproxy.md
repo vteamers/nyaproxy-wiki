@@ -13,7 +13,7 @@ dateCreated: 2024-12-01T17:17:03.243Z
 
 **NyaProxy** 也称作 **雫加速/雫代理** 起始是由 Nya \[Owner\] 自行研发的一个Minecraft Proxy 个人项目
 
-其最初的目的是在 Minecraft Hypixel 中 _等级 21 级一下的账号/尚未在 Hypixel Forum 申诉成功的账号_ 通过 NyaProxy 能够直接绕过代理加速限制 并且能够保持不错的延迟体验
+其最初的目的是在 Minecraft Hypixel 中 _等级 21 级以下的账号/尚未在 Hypixel Forum 申诉成功的账号_ 通过 NyaProxy 能够直接绕过代理加速限制 并且能够保持不错的延迟体验
 
 该产品有以下特点:
 
