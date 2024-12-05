@@ -2,7 +2,7 @@
 title: Wikijs Like CSS
 description: 
 published: true
-date: 2024-12-02T08:22:36.919Z
+date: 2024-12-03T05:50:17.906Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T07:08:46.961Z
