@@ -2,7 +2,7 @@
 title: NyaProxy 支持的平台
 description: 
 published: true
-date: 2024-12-05T00:37:17.502Z
+date: 2024-12-05T00:44:39.760Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-04T09:47:57.593Z
@@ -16,11 +16,9 @@ dateCreated: 2024-12-04T09:47:57.593Z
 > 不会将 [ QQ ] 主账号的信息与其他平台同步？
 点击这里进行详细引导 [点击此处跳转](https://wiki.milkawa.xyz/zh/faq/how-to-bind)
 {.is-info}
-## 1. QQ
-- 706392676
 
-## 2. Discord <i class="fa-brands fa-discord"></i>
-- https://discord.gg/vQJXAFrSst
-
-## 3. Telegram
-- 请前往 [Discord](https://discord.gg/vQJXAFrSst) 开票联系管理员审核。
+|平台|链接/代码|
+|-|-|
+|QQ 群 (点击群号直接跳转) <i class="fa-brands fa-qq"></i> |[706392676](https://qm.qq.com/q/o95GU22ml2)|
+|Discord (点击链接直接跳转) <i class="fa-brands fa-discord"></i>|https://discord.gg/vQJXAFrSst|
+|Telegram (点击链接进行审核) <i class="fa-brands fa-telegram"></i>|[直达审核频道](https://discord.com/channels/1162375735948869754/1268026398463889429)|
