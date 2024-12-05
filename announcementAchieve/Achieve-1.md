@@ -2,13 +2,17 @@
 title: Achieve 1
 description: 
 published: true
-date: 2024-12-05T00:27:27.035Z
+date: 2024-12-05T00:44:03.825Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T00:24:35.240Z
 ---
 
 # QQ群公告 档案
+
+![](https://img.shields.io/badge/Dream_Light-white?style=for-the-badge&label=Editor)
+![](https://img.shields.io/badge/Fisunia_Faint-pink?style=for-the-badge&label=Achieved-By)
+
 通知日期：
 2k24/11/28-UTC+8:00:07
 美服Hypixel加速服务恢复
