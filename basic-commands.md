@@ -107,6 +107,7 @@ Milk-20hours-milkserver
 `/start` 此时目标服务器默认为 *usagebased.cn.hypixel*
 ~~当然，如果你想炫耀你神速の打字速度的话，你也可以~~
 `/start usagebased.cn.hypixel`
+当您在HackPixel上惨遭看门狗或者staff的封禁，请千万记更换IP,具体方法为重新启动服务。如果您未重新启动服务可能会被Suspicious Activity Ban, Nyaproxy group不会为此类封禁负责。
 
 如果你需要使用EU-Proxy *[指 subscription.de.any/usagebased.de.any 服务]*
 那你需要添加指定目标服务器进行加速
