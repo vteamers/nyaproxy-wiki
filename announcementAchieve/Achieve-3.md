@@ -2,14 +2,14 @@
 title: Achieve-3
 description: 
 published: true
-date: 2024-12-05T01:17:51.356Z
+date: 2024-12-05T01:27:44.681Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T01:17:51.356Z
 ---
 
 # EUproxy
-![](https://img.shields.io/badge/Nya-white?style=for-the-badge&label=Editor) ![](https://img.shields.io/badge/Fisunia_Faint-pink?style=for-the-badge&label=Achieved_BY)
+![](https://img.shields.io/badge/Nya-white?style=for-the-badge&label=Editor) ![](https://img.shields.io/badge/Fisunia_Faint-pink?style=for-the-badge&label=Achieved-BY)
 用于EU 服务器的加速IP 支持任意服务器加速，绕过VPN Check
 
 每次进入时IP均不同 无需在机器人处更换IP
