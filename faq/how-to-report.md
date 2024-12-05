@@ -2,7 +2,7 @@
 title: [Report] 如何正确的向管理员报告问题
 description: 如何正确的向管理员报告问题
 published: true
-date: 2024-12-03T06:05:03.113Z
+date: 2024-12-05T11:26:17.456Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T17:30:16.899Z
