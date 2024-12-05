@@ -2,7 +2,7 @@
 title: Wikipeida Like Tagline
 description: 
 published: true
-date: 2024-12-05T02:05:51.962Z
+date: 2024-12-05T02:08:24.578Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T02:05:51.962Z
@@ -23,3 +23,15 @@ dateCreated: 2024-12-05T02:05:51.962Z
   </tr>
 </table>
 ```
+
+
+<br>
+<div class="highlight-box">
+<img src="https://photo.vteamer.cc/i/2024/12/02/hahf0h.png" alt="Minecraft 经验瓶" class="icon"> <!-- Minecraft 经验瓶图标 -->    <div class="content">
+        <strong>这是精品!!!</strong><br>
+        您目前在浏览的页面是一个精品页面！精品页面意味着该页面的内容十分客观，充实且详细，是其他编辑者学习的榜样。
+<br>
+同时我们会赠送专属勋章 保留在顶部!<br>
+如果你认为某个页面应该是精品，请前往我们的GitHub仓库，提出Issue告诉我们。<br>
+    </div>
+</div>
