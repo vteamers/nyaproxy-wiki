@@ -1,9 +1,2 @@
----
-title: [Bots]Bot 使用警示
-description: 
-published: false
-date: 
-tags: 
-editor: markdown
-dateCreated: 
----
+# 为何有些时候Bot没有反应
+由于腾讯的相关限制，有些时候机器人可能会被风控。 这会导致发送给机器人的指令无法被正确执行
