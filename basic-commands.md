@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-04T02:50:39.596Z
+date: 2024-12-06T13:43:48.466Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -107,7 +107,7 @@ Milk-20hours-milkserver
 `/start` 此时目标服务器默认为 *usagebased.cn.hypixel*
 ~~当然，如果你想炫耀你神速の打字速度的话，你也可以~~
 `/start usagebased.cn.hypixel`
-当您在HackPixel上惨遭看门狗或者staff的封禁，请千万记更换IP,具体方法为重新启动服务。如果您未重新启动服务可能会被Suspicious Activity Ban, Nyaproxy group不会为此类封禁负责。
+当您在 Hypixel 上惨遭看门狗或者 Staff 的封禁，请千万记住更换IP，具体方法为重新启动服务。如果您未重新启动服务可能会被 Suspicious Activity Ban，NyaProxy 不会为此类封禁负责。
 
 如果你需要使用EU-Proxy *[指 subscription.de.any/usagebased.de.any 服务]*
 那你需要添加指定目标服务器进行加速
@@ -143,7 +143,7 @@ Milk-20hours-milkserver
 **请注意时长转换量!!**
 {.is-warning}
 
-若你需要单独使用EU服务 ， 你可以前往这里**↓**购买独售卡密
+若你需要单独使用 EU 服务 ， 你可以前往这里 **↓** 购买独售卡密
 > 想直达独售卡密商品窗口? **[点击我跳转到购买页面](http://shop.nyaproxy.xyz?cid=1&mid=32)**
 {.is-info}
 
