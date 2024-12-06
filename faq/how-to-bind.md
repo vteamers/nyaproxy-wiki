@@ -2,14 +2,23 @@
 title: [Bind] 如何正确绑定/同步账号
 description: 
 published: true
-date: 2024-12-06T01:32:03.453Z
+date: 2024-12-06T01:35:01.742Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-03T05:48:39.421Z
 ---
 
 ![](https://img.shields.io/badge/Dreamlight-a48bf8?style=for-the-badge&label=Writer)![](https://img.shields.io/badge/Milk-blue?style=for-the-badge)
+```kroki
+mermaid
 
+graph TD
+  A[ Anyone ] -->|Can help | B( Go to github.com/yuzutech/kroki )
+  B --> C{ How to contribute? }
+  C --> D[ Reporting bugs ]
+  C --> E[ Sharing ideas ]
+  C --> F[ Advocating ]
+```
 # Bind详细用法：
 1. 首先请确认**你要绑定的平台** 和 **怎么绑定**（你是把QQ数据覆盖到Discord还是把Discord数据覆盖到QQ）
 
