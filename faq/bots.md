@@ -2,7 +2,7 @@
 title: [Bots] NyaBot 相关问题
 description: 
 published: true
-date: 2024-12-06T00:47:06.383Z
+date: 2024-12-06T01:17:20.329Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T05:43:12.758Z
@@ -13,7 +13,9 @@ dateCreated: 2024-12-05T05:43:12.758Z
 我们的建议是: 建议您尽早进行[多平台绑定](/zh/faq/how-to-bind)来防止无法正常使用
 
 # 为什么输入任何指令提示无权限
-恭喜你被NYA封号/拉黑了
+第一种可能是因为管理员在做相关服务 改革/调整 暂时将所有权限卸权限
+第二种如果是只有你自己一个人显示无权限
+## 那么
 ![0e8c90b079e8b5a5be54af5926840bb3_720.png](/photos/0e8c90b079e8b5a5be54af5926840bb3_720.png)
 
 # 为什么管理员扣除时长
