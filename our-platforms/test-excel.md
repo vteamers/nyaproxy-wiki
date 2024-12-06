@@ -2,7 +2,7 @@
 title: Excel
 description: 
 published: true
-date: 2024-12-06T02:08:21.989Z
+date: 2024-12-06T02:44:41.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T01:23:57.513Z
@@ -20,7 +20,7 @@ NyaProxy不在其他任何平台售卖（如~~咸~~鱼等），如看到在其�
 |Andy **(卡密前缀 Andy-)** |[点击链接直接跳转](https://shop.andyzywl.com/)|
 |LiShang/离殇 **(卡密前缀 Lishang-)** |[点击链接直接跳转](https://shop.lishangmc.com/)|
 |XueBi/雪碧 **(卡密前缀 Xuebi-)** |[点击链接直接跳转](https://shop.xuebimc.com/)|
-|DaHai/大海 **(卡密前缀 Dahai-)** |[点击链接直接跳转](https://dahaikw.shop/)|
+|DaHai/大海 **(卡密前缀 Dahai-)** |大海卡网暂时死亡，购买请联系QQ599648157 [点击链接直接跳转](https://dahaikw.shop/)|
 |xDDDDD/Munan **(卡密前缀 Munan-)** |[点击链接直接跳转](https://xddddd.icu/)|
 |Ming **(卡密前缀 Ming-)** |[点击链接直接跳转](https://shop.fazot.lol/)|
 |一猫/Marisa **(卡密前缀 Marisa-)** |[点击链接直接跳转](https://bakamarisa.shop/)|
