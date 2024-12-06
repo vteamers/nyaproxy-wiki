@@ -2,7 +2,7 @@
 title: Excel
 description: 
 published: true
-date: 2024-12-06T01:54:19.548Z
+date: 2024-12-06T02:07:54.112Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T01:23:57.513Z
@@ -16,7 +16,7 @@ NyaProxy不在其他任何平台售卖（如~~咸~~鱼等），如看到在其�
 
 |代理商|链接/代码|
 |-|-|
-|Nya **(卡密前缀 Nya-)** |[点击链接直接跳转](https://shop.nyaproxy.xyz/)|
+|<div class="highlight-box"> <img src="/photos/image_290840699544682.jpg" alt="Minecraft 经验瓶" class="icon"> <div class="content" >Nya **(卡密前缀 Nya-)** |[点击链接直接跳转](https://shop.nyaproxy.xyz/)|
 |Andy **(卡密前缀 Andy-)** |[点击链接直接跳转](https://shop.andyzywl.com/)|
 |LiShang/离殇 **(卡密前缀 Lishang-)** |[点击链接直接跳转](https://shop.lishangmc.com/)|
 |XueBi/雪碧 **(卡密前缀 Xuebi-)** |[点击链接直接跳转](https://shop.xuebimc.com/)|
