@@ -2,7 +2,7 @@
 title: [Bind] 如何正确绑定/同步账号
 description: 
 published: true
-date: 2024-12-03T06:19:40.809Z
+date: 2024-12-06T01:32:03.453Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-03T05:48:39.421Z
