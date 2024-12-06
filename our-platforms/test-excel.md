@@ -2,7 +2,7 @@
 title: Excel
 description: 
 published: false
-date: 2024-12-06T03:37:37.136Z
+date: 2024-12-06T04:40:06.494Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T01:23:57.513Z
@@ -25,5 +25,5 @@ NyaProxy不在其他任何平台售卖（如~~咸~~鱼等），如看到在其�
 |<div class="highlight-box" style="background-color: #0A4A6E;border:white"> <img src="/photos/image_294159375664488.jpg" alt="Ming" class="icon"> <div class="content" style="color: white;">Ming **(卡密前缀 Ming-)** |[点击链接直接跳转](https://shop.fazot.lol/)|
 |一猫/Marisa **(卡密前缀 Marisa-)** |[点击链接直接跳转](https://bakamarisa.shop/)|
 |<div class="highlight-box"> <img src="https://photo.vteamer.cc/i/2024/12/06/hbojfx.jpg" alt="Lvrui" class="icon"> <div class="content" >小魔/Lvrui666 **(卡密前缀 Lvrui666-)** |[点击链接直接跳转](https://shop.qwq3.com/)|
-|AutoSave/~~自动保存~~ **(卡密前缀 AutoSave-)** |[点击链接直接跳转](https://autosave.top/)|
+|<div class="highlight-box" style="background-color: #FFFFFF;border:white"> <img src="/photos/image_2214497890806.jpg" alt="AutoSave" class="icon"> <div class="content" >AutoSave/~~自动保存~~ **(卡密前缀 AutoSave-)** |[点击链接直接跳转](https://autosave.top/)|
   |Milk~~卖牛奶的~~ **(卡密前缀 Milk-)**|[点击链接直接跳转](https://shop.milkawa.xyz/)|
