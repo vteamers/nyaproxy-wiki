@@ -2,7 +2,7 @@
 title: Excel
 description: 
 published: false
-date: 2024-12-06T03:04:38.146Z
+date: 2024-12-06T03:06:53.656Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T01:23:57.513Z
@@ -26,4 +26,4 @@ NyaProxy不在其他任何平台售卖（如~~咸~~鱼等），如看到在其�
 |一猫/Marisa **(卡密前缀 Marisa-)** |[点击链接直接跳转](https://bakamarisa.shop/)|
 |<div class="highlight-box"> <img src="https://photo.vteamer.cc/i/2024/12/06/hbojfx.jpg" alt="Lvrui" class="icon"> <div class="content" >小魔/Lvrui666 **(卡密前缀 Lvrui666-)** |[点击链接直接跳转](https://shop.qwq3.com/)|
 |AutoSave/~~自动保存~~ **(卡密前缀 AutoSave-)** |[点击链接直接跳转](https://autosave.top/)|
-|Milk~~卖牛奶的~~ **(卡密前缀 Milk-)** <i class="fa-solid fa-glass fa-bounce"></i> |[点击链接直接跳转](https://shop.milkawa.xyz/)|
+  |Milk~~卖牛奶的~~ **(卡密前缀 Milk-)** <i class="fa-solid fa-user fa-bounce"></i> |[点击链接直接跳转](https://shop.milkawa.xyz/)|
