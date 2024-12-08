@@ -2,7 +2,7 @@
 title: 什么是 NyaProxy
 description: 什么是NyaProxy
 published: true
-date: 2024-12-05T00:49:08.818Z
+date: 2024-12-08T13:14:05.282Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T17:17:03.243Z
@@ -43,7 +43,7 @@ dateCreated: 2024-12-01T17:17:03.243Z
 -   通常采用计时方式计费/同时也推出了月卡计费方式 随时开 随时停 如果忘记关闭 系统将自动停止计费
 -   活动不细嗦了 ~~本入懒癌晚期了~~
 
-<kbd>-   **_最重要的一点: 能够绕过所有_****_欧洲_****_服务器的 AntiVPN 和IPBan检测_**</kbd>
+<kbd>-   **_最重要的一点: 能够绕过所有_****_欧洲_****_服务器的 AntiVPN 和 IPBan 检测_**</kbd>
 
  **_包括但不限于_** [**_Pika-NetWork_**](https://pika-network.net/)  [**_BlocksMC_**](https://blocksmc.com/)  [**_MineBlaze_**](https://mineblaze.net/) **_等欧洲服务器_**
 
