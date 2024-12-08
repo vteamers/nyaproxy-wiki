@@ -2,7 +2,7 @@
 title: Excel
 description: 
 published: false
-date: 2024-12-08T14:02:39.733Z
+date: 2024-12-08T14:03:01.105Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-06T01:23:57.513Z
@@ -10,7 +10,7 @@ dateCreated: 2024-12-06T01:23:57.513Z
 
 # EXCEL HANDLER
 
-> **只有在这里列出来的卡网才是可信卡网！**
+> **只有在这里列出来的卡网才是可信卡网/代理商！**
 NyaProxy不在其他任何平台售卖（如~~咸~~鱼等），如看到在其他平台售卖，**均为假货**！
 {.is-warning}
 
