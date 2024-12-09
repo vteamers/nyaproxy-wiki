@@ -39,6 +39,6 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 ![bind3.png](/bindfaq/bind3.png)
 
 之后在两方绑定的任意一个平台都可以使用 NyaProxy 数据会实时同步（例如时长 审计日志 使用状况等）
-如果你今后想要解除绑定 只需要在你的被覆盖的平台（目标平台）发送“/bind -r”或“!bind -r”（DC使用 !bind -r）即可解除绑定
+如果你今后想要解除绑定 只需要在你的被覆盖的平台（目标平台）发送`/bind -r`或`!bind -r`（DC使用 `!bind -r`）即可解除绑定
 ![bind4.png](/bindfaq/bind4.png)
 **如果你绑定后数据丢失** 请检查你想要被覆盖的平台和带有数据的平台绑定是否有问题（例如QQ有数据但QQ成为了目标平台被覆盖 或者Discord有数据但Discord被覆盖） 使用`/bind -r`或`!bind -r`（Discord平台使用）解除绑定后重新绑定
