@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-14T11:49:42.592Z
+date: 2024-12-14T23:31:32.105Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -139,9 +139,9 @@ Milk-20hours-milkserver
 @UnknownUser 成功将 600 分钟剩余时长转移到 EU 服务，增加 600 分钟。
 {.is-success}
 
-> 注意：该时长转换是 ***目前没有比例的*** 即 HYP:EU ＝ 1:1
+> 注意：该时长转换是 ***有比例的*** 即 HYP:EU ＝ 2:1
 **请注意时长转换量!!**
-更新 Dec 14 : 比例更换为 1:1
+更新 Dec 14 : 比例更换为 2:1
 {.is-warning}
 
 若你需要单独使用 EU 服务 ， 你可以前往这里 **↓** 购买独售卡密
