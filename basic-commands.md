@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-06T13:43:48.466Z
+date: 2024-12-14T11:49:42.592Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -39,7 +39,7 @@ dateCreated: 2024-12-02T00:08:33.464Z
 
 你将会收到来自 机器人 的回复
 > 当前可用的指令有：
-    /landy  我是抖 M
+    `/landy`  我是抖 M
     `/migrate`  从旧版 NyaProxy 中转移剩余时长
     `/redeem`  兑换服务
     `/services`  查看已有的服务及其剩余时长/到期时间
@@ -136,11 +136,12 @@ Milk-20hours-milkserver
 使用举例:
 > `/transfer 600`
 **BOT MSG:**
-@UnknownUser 成功将 600 分钟剩余时长转移到 EU 服务，增加 300 分钟。
+@UnknownUser 成功将 600 分钟剩余时长转移到 EU 服务，增加 600 分钟。
 {.is-success}
 
-> 注意：该时长转换是 ***有比例的*** 其转换的比例为 HYP:EU ＝ 2:1
+> 注意：该时长转换是 ***目前没有比例的*** 即 HYP:EU ＝ 1:1
 **请注意时长转换量!!**
+更新 Dec 14 : 比例更换为 1:1
 {.is-warning}
 
 若你需要单独使用 EU 服务 ， 你可以前往这里 **↓** 购买独售卡密
