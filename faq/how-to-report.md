@@ -2,7 +2,7 @@
 title: [Report] 如何正确的向管理员报告问题
 description: 如何正确的向管理员报告问题
 published: true
-date: 2024-12-05T11:26:17.456Z
+date: 2024-12-14T04:41:36.971Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T17:30:16.899Z
@@ -10,7 +10,7 @@ dateCreated: 2024-12-01T17:30:16.899Z
 
 ![](https://img.shields.io/badge/Milk-blue?style=for-the-badge&label=Writer)
 # 须知
-> 管理员经常忙碌,请不要随意添加他们为好友! 请不要连接失败时,直接骚扰管理!
+> 管理员经常忙碌,请不要随意添加他们为好友! 请不要连接失败时,直接骚扰管理/在群里无厘头发言!
 > 您可能因此受到扣除 `60-1200`分钟的处罚。
 {.is-warning}
 # 群内提问
