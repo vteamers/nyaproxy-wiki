@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-15T03:41:45.561Z
+date: 2024-12-15T05:35:48.253Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -124,24 +124,31 @@ Milk-20hours-milkserver
 暂停服务并结算计费
 ~~这个指令没啥好说的~~
 
-## 转移服务时长 [HYP ---> EU]
+## 转移服务时长
 `/transfer`
-将 *usagebased.cn.hypixel* 的时长
-转移至 *usagebased.de.any* 服务
+在不同服务间转移时长
+
 该指令的格式为:
-`/transfer <convertiveAmount>`
-> `<convertiveAmount>` :将该数量HYP时长转换成EU时长
+`/transfer <amount> <from> <to>`
+> `<amount>` : 您想要转移的时长
+> `<from>` : 从
+> `<to>` : 转到
 {.is-info}
 
 使用举例:
-> `/transfer 600`
+> `/transfer 10 usagebased.de.any usagebased.cn.hypixel`
 **BOT MSG:**
-@UnknownUser 成功将 600 分钟剩余时长转移到 EU 服务，增加 300 分钟。
-{.is-success}
+@UnknownUser 成功将 10 分钟从 usagebased.de.any 转移到 usagebased.cn.hypixel， 增加 10 分钟。转换比率: 1:1
+{.is-info}
 
-> 注意：该时长转换是 ***有比例的*** 即 HYP:EU ＝ 2:1
+或者，您想从 usagebased.cn.hypixel 转移到 usagebased.de.any :
+> `/transfer 10 usagebased.cn.hypixel usagebased.de.any`
+**BOT MSG:**
+@UnknownUser 成功将 10 分钟从 usagebased.cn.hypixel 转移到 usagebased.de.any， 增加 8 分钟。转换比率: 1:0.8
+{.is-info}
+
+> 注意：该时长转换是 ***有比例的*** 即 HYP:EU ＝ 1:0.8
 **请注意时长转换量!!**
-更新 Dec 14 : 比例更换为 2:1
 {.is-warning}
 
 若你需要单独使用 EU 服务 ， 你可以前往这里 **↓** 购买独售卡密
