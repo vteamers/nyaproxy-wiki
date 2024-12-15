@@ -2,7 +2,7 @@
 title: 主页
 description: 
 published: true
-date: 2024-12-06T01:35:20.443Z
+date: 2024-12-15T05:46:46.221Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T16:13:10.433Z
@@ -20,7 +20,7 @@ dateCreated: 2024-12-01T16:13:10.433Z
     <i class="fa-solid fa-wrench icon"></i> <!-- 使用扳手图标 -->
     <div class="content">
         <strong>我们需要你的帮助</strong><br>
-        本Wiki和GitHub联通，您可以在GitHub上通过提交Pull Request来与我们一起维护项目！<br>
+        本 Wiki 和 GitHub 联通，您可以在 GitHub 上通过提交 Pull Request 来与我们一起维护项目！<br>
         <a href="https://github.com/Michaelwucoc/nyaproxy-wiki">点击获取前往仓库链接</a>
     </div>
 </div>
@@ -34,7 +34,7 @@ dateCreated: 2024-12-01T16:13:10.433Z
 
 2. 我们确保国际链路的延迟和丢包率处于正常水平，但由于三网间 QoS 因素，无法保证国内段连接稳定性。建议您选择适合你的入口，以获得更流畅稳定的体验。
 
-3. 我们已采取稳定方式绕过 IP 封禁，但无法绕过封禁。如遇封禁，请检查是否为 ban 卡 或多次切换登录位置导致的非连锁强封禁。
+3. 我们已采取稳定方式绕过 IP 封禁，但无法绕过封禁。如遇封禁，请检查是否为 Ban 卡 或多次切换登录位置导致的非连锁强封禁。
 
 
 4. 您不应以任何形式泄露节点信息，包括但不限于：
