@@ -2,7 +2,7 @@
 title: 什么是 NyaProxy
 description: 什么是NyaProxy
 published: true
-date: 2024-12-08T13:14:05.282Z
+date: 2024-12-15T13:12:45.549Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T17:17:03.243Z
@@ -21,7 +21,7 @@ dateCreated: 2024-12-01T17:17:03.243Z
 -   能够在 电脑/手机 \[Java Editon\] 使用本产品
 -   平均延迟能稳定达到 210+ / 230+ ms \[后者为高峰期状态\]
 -   通常采用计时方式计费 随时开 随时停 如果忘记关闭 系统也会**亲自的帮您**自动停止计费 *（太好了。）*
--   经常有活动\[不限于 春节/国庆节/中秋节/Nya生日\] ~~天上掉馅饼了~~
+-   经常有活动 \[不限于 春节/国庆节/中秋节/Nya生日\] ~~天上掉馅饼了~~
 
 # 如今发展 · NyaProxy
 
@@ -47,4 +47,4 @@ dateCreated: 2024-12-01T17:17:03.243Z
 
  **_包括但不限于_** [**_Pika-NetWork_**](https://pika-network.net/)  [**_BlocksMC_**](https://blocksmc.com/)  [**_MineBlaze_**](https://mineblaze.net/) **_等欧洲服务器_**
 
-如果被 ban 了你可以不需要使用停止计费指令 短时间内你可以直接随意修改 Minecraft 名字， 然后再直接重新进入便可继续进行~~享受~~(飘)，但是请一定注意此功能仅EU服务拥有，Hypixel 加速服务依然需要更换新的IP,请不要因为没有换IP而被封禁来骚扰staff.
+如果被 Ban 了你可以不需要使用停止计费指令 短时间内你可以直接随意修改 Minecraft 名字， 然后再直接重新进入便可继续进行~~享受~~(飘)，但是请一定注意此功能仅EU服务拥有，Hypixel 加速服务依然需要更换新的IP,请不要因为没有换IP而被封禁来骚扰staff.
