@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-14T23:31:32.105Z
+date: 2024-12-15T03:41:45.561Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -136,7 +136,7 @@ Milk-20hours-milkserver
 使用举例:
 > `/transfer 600`
 **BOT MSG:**
-@UnknownUser 成功将 600 分钟剩余时长转移到 EU 服务，增加 600 分钟。
+@UnknownUser 成功将 600 分钟剩余时长转移到 EU 服务，增加 300 分钟。
 {.is-success}
 
 > 注意：该时长转换是 ***有比例的*** 即 HYP:EU ＝ 2:1
