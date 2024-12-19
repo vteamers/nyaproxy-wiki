@@ -2,7 +2,7 @@
 title: WIKI帮助
 description: 
 published: false
-date: 2024-12-05T01:26:17.494Z
+date: 2024-12-19T01:04:02.752Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-05T01:26:13.213Z
@@ -15,3 +15,4 @@ dateCreated: 2024-12-05T01:26:13.213Z
 标签和勋章是我们内容嵌入的一种方式。通常用于感谢特定的用户/表示特定状态
 ## 标签
 `locked` - ![](https://img.shields.io/badge/locked-red?style=for-the-badge) - 本文章已锁定，不接受任何更改。
+`Writer/Archived`等代表本页面的作者/记录者
