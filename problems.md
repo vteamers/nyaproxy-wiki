@@ -2,7 +2,7 @@
 title: 使用 NyaProxy 中的问题
 description: 
 published: true
-date: 2024-12-22T11:19:21.156Z
+date: 2024-12-22T11:23:46.794Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-08T14:09:28.249Z
@@ -15,7 +15,7 @@ dateCreated: 2024-12-08T14:09:28.249Z
   - 使用[转换服务指令](https://wiki.nyaproxy.xyz/zh/basic-commands#%E8%BD%AC%E7%A7%BB%E6%9C%8D%E5%8A%A1%E6%97%B6%E9%95%BF)将欠费时长去除。
 - 您的帐号被封禁
 	- 联系[管理员](/zh/admins)
-  - 发送**解封申请** [点我发送](malto:michaelwucoc@gmail.com)
+  - 发送**解封申请** [点我发送](michaelwucoc@gmail.com)
 ## 安全警报
 **已使用 NyaProxy，NFA 等 Microsoft 黑卡被 Hypixel 安全警报封禁。**
 - 建议的问题解决流程: Rick 查询封禁时间 -> 去购买黑卡的售后群 -> 找售后 -> 换卡 -> 开启服务
