@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-22T13:30:17.135Z
+date: 2024-12-22T13:43:35.358Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -135,6 +135,8 @@ Milk-20hours-milkserver
 
 当你输入之后，耐心等待主控初始化服务，当机器人回复你的时候，就说明启动成功啦～
 > @xxxxx 服务 < servicesMode > 已初始化。查看你的 QQ 邮箱以获取连接地址。
+
+*你不能使用EU加速Hypixel服务器!*
 
 ## 停止计费
 `/stop`
