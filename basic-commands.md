@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-22T13:43:35.358Z
+date: 2024-12-23T05:14:40.652Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -47,7 +47,7 @@ dateCreated: 2024-12-02T00:08:33.464Z
     `/showlogs`  查看用户审计日志
     `/start`  初始化服务
     `/stop`  停止服务
-    `/transfer`  将主服务的剩余时长转移到 EU 按时计费服务
+    `/transfer`  在不同服务间转移时长
 输入“`/help 指令名`”查看特定指令的语法和使用示例。
 
 ### [Feedback] 发送反馈消息给 NyaProxy 管理组
