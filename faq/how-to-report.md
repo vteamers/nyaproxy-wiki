@@ -2,13 +2,18 @@
 title: [Report] 如何正确的向管理员报告问题
 description: 如何正确的向管理员报告问题
 published: true
-date: 2024-12-22T13:37:04.136Z
+date: 2024-12-26T14:08:10.399Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-01T17:30:16.899Z
 ---
 
 ![](https://img.shields.io/badge/Milk-blue?style=for-the-badge&label=Writer)
+
+> # 如果要获得最快速/有效的答复
+> 请使用Ticket系统: https://ticket.milkawa.xyz/
+{.is-info}
+
 # 须知
 > 管理员经常忙碌,请不要随意添加他们为好友! 请不要连接失败时,直接骚扰管理/在群里无厘头发言!
 > 您可能因此受到扣除 `60-1200`分钟的处罚。
