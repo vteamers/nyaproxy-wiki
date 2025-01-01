@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2025-01-01T05:06:00.827Z
+date: 2025-01-01T05:48:32.668Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -191,7 +191,13 @@ EU <---> AS 1:1
 > 想直达独售卡密商品窗口? **[点击我跳转到购买页面](http://shop.nyaproxy.xyz?cid=1&mid=32)**
 {.is-info}
 
-
+## 服务名
+| 服务名称 | Bot名称 |
+| ----------- | ----------- |
+| Hypixel (按时计费) | `usagebased.cn.hypixel` |
+| Europe (EU 按时计费) | `usagebased.de.any` |
+| Europe (EU 月卡) | `subscription.de.any` |
+| Asia (AS 按时计费) | `usagebased.sg.any`|
 
 
 
