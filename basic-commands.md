@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2024-12-23T05:14:40.652Z
+date: 2025-01-01T04:21:24.800Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -111,6 +111,7 @@ Milk-20hours-milkserver
   usagebased.cn.hypixel 计费模式 目标服务器 [美国:Hypixel]
   usagebased.de.any 计费模式 目标服务器 ***[欧洲:未指定.需自行定向]***
   subscription.de.any 订阅模式 目标服务器 ***[欧洲:未指定.需自行定向]***
+  usagebased.sg.any 计费模式 目标服务器 ***[亚洲:未指定.需自行定向]***
  `[-t <targetServer>]`: 用于指定目标服务器。目前该命令仅适用于 [ subscription.de.any/usagebased.de.any] ***这类未指定目标服务的情况，其他情况下无需使用该附加命令***
 {.is-info}
 
@@ -118,8 +119,9 @@ Milk-20hours-milkserver
 `/start` 此时目标服务器默认为 *usagebased.cn.hypixel*
 ~~当然，如果你想炫耀你神速の打字速度的话，你也可以~~
 `/start usagebased.cn.hypixel`
-当然 如果你认为 `usagebased.cn.hypixel` 太长 你可以使用 `按时计费` 代替
-当你在 Hypixel 上惨遭看门狗或者 Staff 的封禁，请千万记住更换IP，具体方法为重新启动服务。如果您未重新启动服务可能会被 Suspicious Activity Ban，NyaProxy 不会为此类封禁负责。
+当然 如果你认为 `usagebased.cn.hypixel` 太长 你可以使用 `按时计费` 代替（但在使用Transfer转换时不可用）
+>当你在 Hypixel 上惨遭 ***看门狗或者 Staff*** 的封禁，请千万记住**更换IP**，具体方法为***重新启动服务***。如果您未重新启动服务可能会被 *Suspicious Activity Ban*，NyaProxy 不会为此类封禁负责。
+{.is-warning}
 
 如果你需要使用EU-Proxy ***[指 subscription.de.any / usagebased.de.any 服务]***
 那你需要添加指定**目标服务器**进行加速
@@ -129,13 +131,13 @@ Milk-20hours-milkserver
 {.is-danger}
 
 正确用法：
-
 > `/start usagebased.de.any -t Blocksmc.com`
 {.is-success}
 
 当你输入之后，耐心等待主控初始化服务，当机器人回复你的时候，就说明启动成功啦～
 > @xxxxx 服务 < servicesMode > 已初始化。查看你的 QQ 邮箱以获取连接地址。
 
+亚服 `usagebased.sg.any` 使用方法同理！
 *你不能使用EU加速Hypixel服务器!*
 
 ## 停止计费
@@ -158,16 +160,26 @@ Milk-20hours-milkserver
 > `/transfer 10 usagebased.de.any usagebased.cn.hypixel`
 **BOT MSG:**
 @UnknownUser 成功将 10 分钟从 usagebased.de.any 转移到 usagebased.cn.hypixel， 增加 10 分钟。转换比率: 1:1
-{.is-info}
 
 或者，您想从 usagebased.cn.hypixel 转移到 usagebased.de.any:
 > `/transfer 10 usagebased.cn.hypixel usagebased.de.any`
 **BOT MSG:**
 @UnknownUser 成功将 10 分钟从 usagebased.cn.hypixel 转移到 usagebased.de.any， 增加 8 分钟。转换比率: 1:0.8
+
+其他同理！
+
+> 注意：该时长转换是 ***有比例的*** ！
+{.is-warning}
+
+>服务之间转换比例：
+Hypixel --> EU = 1:0.8
+Hypixel <-- EU = 1:1
+Hypixel --> AS = 1:0.8
+Hypixel <-- AS = 1:1
+EU <---> AS 1:1
 {.is-info}
 
-> 注意：该时长转换是 ***有比例的*** 即 Hypixel ==> EU ＝ 1:0.8 / EU ==> Hypixel 1:1
-**请注意时长转换量!!**
+>**请注意时长转换量!!**
 {.is-warning}
 
 若你需要单独使用 EU 服务，你可以前往这里 **↓** 购买独售卡密
