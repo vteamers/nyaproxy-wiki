@@ -2,7 +2,7 @@
 title: NyaProxy の 入门保姆式指令
 description: 
 published: true
-date: 2025-01-01T04:21:24.800Z
+date: 2025-01-01T04:22:44.696Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-02T00:08:33.464Z
@@ -60,11 +60,11 @@ dateCreated: 2024-12-02T00:08:33.464Z
 > 禁止滥用此指令！若发现滥用此指令发送无效消息，我们将根据情况实施时长为 `60-1200` 分钟的处罚
 {.is-warning}
 
-### [Migrate]使用此新架构系统前的元老用户
+### [Migrate] 使用此新架构系统前的元老用户
 `/migrate`  
 此指令输入后将会从 **旧版-NyaProxy 数据库** 中 **迁移** 剩余时长 到 **新版-NyaProxy-NG** 数据库 中
 
-### [Redeem]激活-第一次使用本产品的用户
+### [Redeem] 激活-第一次使用本产品的用户
 进入 主群QQ群 后，准备好你买好的卡密
 在群中输入该指令 激活/兑换
 `/redeem`
@@ -87,11 +87,11 @@ Milk-20hours-milkserver
 `/redeem DXGisBu11Shit`
 {.is-danger}
 
-### [Services]查看你剩余的时长 & 使用情况
+### [Services] 查看你剩余的时长 & 使用情况
 `/services` 
 此指令用于查看本产品剩余可使用的时间 & 使用情况
 
-### [Showlogs]查看你的使用日志
+### [Showlogs] 查看你的使用日志
 `/showlogs`
 此指令用于查看本产品你的使用日志，包括 ***自行使用走向/管理员时长调整/生成卡密*** 
 
