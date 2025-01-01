@@ -2,7 +2,7 @@
 title: 使用 NyaProxy 中的问题
 description: 
 published: true
-date: 2024-12-27T04:22:14.808Z
+date: 2025-01-01T06:06:53.173Z
 tags: 
 editor: markdown
 dateCreated: 2024-12-08T14:09:28.249Z
@@ -17,6 +17,10 @@ dateCreated: 2024-12-08T14:09:28.249Z
 - 您的帐号被封禁
 	- 联系[管理员](/zh/admins)
   - 发送**解封申请** (请使用Ticket系统: https://ticket.milkawa.xyz/)
+## 已扣除十分钟，计费未关闭
+- 为了防止滥用，您**必须**等待大于5分钟才能关闭服务。
+- 由于您在2分钟内关闭服务，导致触发滥用警告扣费。请您自行妥善使用。
+  
 ## 安全警报
 **已使用 NyaProxy，NFA 等 Microsoft 黑卡被 Hypixel 安全警报封禁。**
 - 建议的问题解决流程: Rick 查询封禁时间 -> 去购买黑卡的售后群 -> 找售后 -> 换卡 -> 开启服务
