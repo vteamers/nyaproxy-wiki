@@ -2,7 +2,7 @@
 title: NyaProxy 代理名单
 description: 
 published: true
-date: 2025-01-02T11:21:09.699Z
+date: 2025-01-02T11:23:53.060Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-04T08:47:28.933Z
@@ -19,7 +19,7 @@ NyaProxy不在其他任何平台售卖（如~~咸~~鱼等），如看到在其�
 |-|-|
 |<div class="highlight-box" style="background-color: #FFFFFF;border:white"> <img src="/photos/image_290840699544682.jpg" alt="Nya" class="icon"> <div class="content" >Nya **(卡密前缀 Nya-)** |[点击链接直接跳转](https://shop.nyaproxy.xyz/)|
 |<div class="highlight-box" style="background-color: #00C8C8;border:white"> <img src="/photos/image_294723465582631.jpg" alt="Andy" class="icon"> <div class="content" >Andy/章鱼 **(卡密前缀 Andy-)** |[点击链接直接跳转](https://shop.andyzywl.com/)|
-|<div class="highlight-box" style="background-color: #FFFFFF;border:white"> <img src="/photos/mmexport1733662476595.jpg" alt="Milk_awa" class="icon"> <div class="content" >Milk **(卡密前缀 Milk-)** |[点击链接直接跳转](https://shop.milkawa.xyz/)|
+|<div class="highlight-box" style="background-color: light;border:white"> <img src="/photos/mmexport1733662476595.jpg" alt="Milk_awa" class="icon"> <div class="content" >Milk **(卡密前缀 Milk-)** |[点击链接直接跳转](https://shop.milkawa.xyz/)|
 |<div class="highlight-box" style="background-color: lightblue;border:white"> <img src="/photos/image_293703651422370.jpg" alt="大海" class="icon"> <div class="content" >DaHai/大海 **(卡密前缀 Dahai-)** |[点击链接直接跳转](https://dahaikw.com/)|
 |<div class="highlight-box" style="background-color: #87CEEB;border:white"> <img src="/photos/image_294701498162322.jpg" alt="Lishang" class="icon"> <div class="content" >LiShang/离殇 **(卡密前缀 Lishang-)** |[点击链接直接跳转](https://shop.lishangmc.com/)|
 |<div class="highlight-box" style="background-color: #87CEEB;border:white"> <img src="/photos/image_67216157874117.jpg" alt="XueBi" class="icon"> <div class="content" >XueBi/雪碧 **(卡密前缀 Xuebi-)** |[点击链接直接跳转](https://shop.xuebimc.com/)|
