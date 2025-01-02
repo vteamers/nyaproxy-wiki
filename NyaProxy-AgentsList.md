@@ -2,7 +2,7 @@
 title: NyaProxy 代理名单
 description: 
 published: true
-date: 2024-12-24T15:44:48.304Z
+date: 2025-01-02T07:50:21.307Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-04T08:47:28.933Z
@@ -28,4 +28,4 @@ NyaProxy不在其他任何平台售卖（如~~咸~~鱼等），如看到在其�
 |<div class="highlight-box" style="background-color: #FFFFFF;border:white"> <img src="/photos/image_2214497890806.jpg" alt="AutoSave" class="icon"> <div class="content" >AutoSave/自动保存 **(卡密前缀 AutoSave-)** |[点击链接直接跳转](https://autosave.top/)|
   |<div class="highlight-box" style="background-color: #FFFFFF;border:white"> <img src="/photos/mmexport1733662476595.jpg" alt="Milk_awa" class="icon"> <div class="content" >Milk **(卡密前缀 Milk-)** |[点击链接直接跳转](https://shop.milkawa.xyz/)|
   |<div class="highlight-box" style="background-color: #FFFFFF;border:white"> <img src="/photos/image_67228328725678.jpg" alt="Try2LoveMe_Evil" class="icon"> <div class="content" >Try2LoveMe **(卡密前缀 Tty2LoveMe-Evil-)** |[点击链接直接跳转](https://shop.qinuan.fun/)|
-
+  |<div class="highlight-box" style="background-color: lightblue;border:white"> <img src="/photos/b_44b15ab87933e9d58b76a51664327f69.jpg" alt="MiaoMiao" class="icon"> <div class="content" >MiaoMiao **(卡密前缀 MiaoMiao-Shop-)** |[点击链接直接跳转](http://shop-miaomiao.com/)|
