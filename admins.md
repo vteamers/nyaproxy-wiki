@@ -2,7 +2,7 @@
 title: NyaProxy 管理员名单
 description: 
 published: true
-date: 2024-12-23T12:16:59.122Z
+date: 2025-01-04T19:59:59.122Z
 tags: lock
 editor: markdown
 dateCreated: 2024-12-02T17:22:39.469Z
@@ -21,7 +21,6 @@ dateCreated: 2024-12-02T17:22:39.469Z
 - ShaYe [NyaProxy客卿 知名GTAV/荒野大镖客等游戏账号卡商] (~~男娘~~): ` 聊天方式已匿名`
 - Andy (不定期在线):`3628919882`
 - Ikaleio 香草妈 [NyaProxy开发者] (不定期在线): `3042822626`
-- 沈蔚秋 [NyaProxy高级管理者] (~~已死亡~~): `2130462169`
 - DreamLight [~~東雪蓮~~] (吉祥物): `2979166614` 或 `2550639290`
 - Milk [NyaProxy新管理者] (90%概率在线): `3801477277`
 # 注意事项
